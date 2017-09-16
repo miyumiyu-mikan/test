@@ -2,6 +2,6 @@
 
 
 int main() {
-	std::cout << "Chii is GOD" << std::endl;
+	std::cout << "Chii is my angel" << std::endl;
 	return 0;
 }
